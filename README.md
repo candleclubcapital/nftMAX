@@ -28,7 +28,8 @@ This tool allows you to:
 
 ## 🖥️ Screenshots
 
-*(Add your own screenshots here — GUI with tabs and generated collages would look great!)*
+
+<img width="1045" height="987" alt="Screenshot 2025-09-29 at 8 17 28 AM" src="https://github.com/user-attachments/assets/6d0761c8-4f0f-4405-9762-b75f77eb6f6f" />
 
 ---
 
