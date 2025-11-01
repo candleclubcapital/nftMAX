@@ -27,9 +27,8 @@ This tool allows you to:
 ---
 
 ## 🖥️ Screenshots
+<img width="1389" height="890" alt="Screenshot 2025-11-01 at 11 33 45 AM" src="https://github.com/user-attachments/assets/80dffa99-5f64-4d24-9ef9-58e171fd9641" />
 
-
-<img width="1045" height="987" alt="Screenshot 2025-09-29 at 8 17 28 AM" src="https://github.com/user-attachments/assets/6d0761c8-4f0f-4405-9762-b75f77eb6f6f" />
 
 ### Requirements
 
